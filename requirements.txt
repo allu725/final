@@ -42,6 +42,7 @@ ujson
 pretty_errors
 TgCrypto
 
+
 pyrogram==1.4.16
 
 youtube_search
